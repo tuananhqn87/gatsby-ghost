@@ -9,6 +9,8 @@ import config from '../../utils/siteConfig'
 
 // Styles
 import '../../styles/app.css'
+import '../../styles/global.css'
+import '../../styles/screen.css'
 
 /**
 * Main layout component
