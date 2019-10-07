@@ -1,4 +1,4 @@
-.post-full-content figcaption {
+.kg-bookmark-card figcaption {
     margin: 1em 0 0;
     font-size: 80%;
     line-height: 1.6em;
@@ -12,6 +12,13 @@
 
 .kg-card + .kg-bookmark-card {
     margin-top: 0;
+}
+
+.kg-bookmark-card figcaption {
+    margin: 1em 0 0;
+    font-size: 80%;
+    line-height: 1.6em;
+    text-align: center;
 }
 
 .post-full-content .kg-bookmark-container {
