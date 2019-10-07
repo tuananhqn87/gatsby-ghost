@@ -1,3 +1,10 @@
+.post-full-content figcaption {
+    margin: 1em 0 0;
+    font-size: 80%;
+    line-height: 1.6em;
+    text-align: center;
+}
+
 .kg-bookmark-card {
     background: var(--white);
     width: 100%;
